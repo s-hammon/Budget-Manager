@@ -1,10 +1,5 @@
 package budget;
 
-import org.jetbrains.annotations.NotNull;
-
-import java.awt.*;
-import java.util.Comparator;
-
 public class PurchaseItem {
     private final String name;
     private final double price;
